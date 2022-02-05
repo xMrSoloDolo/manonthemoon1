@@ -29,24 +29,24 @@
 	"Interval_Time":30000, 
 
 	"isPage1Activate": true,
-	"isPage2Activate": true,
-	"isPage3Activate": true,
-	"isPage4Activate": true,
+	"isPage2Activate": false,
+	"isPage3Activate": false,
+	"isPage4Activate": false,
     	//content Page 4
 	"textPage4":"have you ever shopped from big lots ?",
 	"button1Page4":"yes",
 	"button2Page4":"sometimes",
-	"isPage5Activate": true,
+	"isPage5Activate": false,
 		//content Page 5
 	"textPage5":"choose boy or budgie",
 	"button1Page5":"boy",
 	"button2Page5":"budgie",
 	
-	"isPage6Activate": true,
+	"isPage6Activate": false,
 	
 	//cpa image banner
     "Visibility_image_cpa":true,
-    "Url_Image_Cpa":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYpiTATLm90tg77TUK7hOnbsR9E5-ceeBuoAaJbg8Nqq0dsBxas0HF5MdRgeGfTqfprw&usqp=CAU",
+    "Url_Image_Cpa":"https://adamhartung.com/wp-content/uploads/Firstbannerad.jpg",
     "Image_View_cpa":"https://drive.google.com/uc?export=download&id=1HZSUOA4EQaWyMFcb9UV2IRcHqIDwwJFN",
 
 	"URLs": [
