@@ -45,9 +45,9 @@
 	"isPage6Activate": false,
 	
 	//cpa image banner
-    "Visibility_image_cpa":true,
+    "Visibility_image_cpa":false,
     "Url_Image_Cpa":"https://adamhartung.com/wp-content/uploads/Firstbannerad.jpg",
-    "Image_View_cpa":"https://drive.google.com/uc?export=download&id=1HZSUOA4EQaWyMFcb9UV2IRcHqIDwwJFN",
+    "Image_View_cpa":"https://adamhartung.com/wp-content/uploads/Firstbannerad.jpg",
 
 	"URLs": [
 
