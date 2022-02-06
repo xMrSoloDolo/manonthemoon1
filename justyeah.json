@@ -1,6 +1,6 @@
 {
 
-	"APP_KEY": "fS7776633",
+	"APP_KEY": "fS764853",
 	"BANNER_PLACEMENT": "DefaultBanner",
 	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
 
@@ -10,14 +10,14 @@
 	"APPLOVIN_BANNER_ID": "086a5330df501860",
 	"APPLOVIN_INTERSTITIAL_ID": "6eced1c4207f23e9",
 	"APPLOVIN_INTERSTITIAL_ONBACK":"6eced1c4207f23e9",
-	"ENABLE_ONBACK_ADS":true,
+	"ENABLE_ONBACK_ADS":false,
 
 	"UNITY_BANNER": "Android_Banner",
 	"UNITY_INTERSTITIAL": "Android_Interstitial",
 	"UNITY_GAME_ID": "3916229",
 	"UNITY_TEST_MODE": false,
 
-	"SwitchAds": 2,
+	"SwitchAds": 1,
 
 	"MoreApps": "667733",
 
@@ -25,36 +25,36 @@
 	"popAppName": "install app",
 	"popAppImage": "https://drive.google.com/uc?export=download&id=1tGqVFnjBpRUAWPNAFUUkD3Bxwo7k_bi2",
 	"popAppPackage": "com.reservshop.rehopping",
-	"popAppIsActive": true,
+	"popAppIsActive": false,
 	"Interval_Time":60000, 
 
 	"isPage1Activate": true,
-	"isPage2Activate": true,
-	"isPage3Activate": true,
-	"isPage4Activate": true,
+	"isPage2Activate": false,
+	"isPage3Activate": false,
+	"isPage4Activate": false,
     	//content Page 4
 	"textPage4":"choose yes or no",
 	"button1Page4":"yes",
 	"button2Page4":"no",
-	"isPage5Activate": true,
+	"isPage5Activate": false,
 		//content Page 5
 	"textPage5":"choose boy or girl",
 	"button1Page5":"boy",
 	"button2Page5":"girl",
 	
-	"isPage6Activate": true,
+	"isPage6Activate": false,
 	
 	//cpa image banner
-    "Visibility_image_cpa":true,
+    "Visibility_image_cpa":false,
     "Url_Image_Cpa":"https://www.google.com/",
     "Image_View_cpa":"https://drive.google.com/uc?export=download&id=1HZSUOA4EQaWyMFcb9UV2IRcHqIDwwJFN",
 
 	"URLs": [
 
 		{
-			"title": "facebook",
+			"title": "JustFab",
 			"image": "https://pnggrid.com/wp-content/uploads/2021/04/Transparent-Facebook-Logo-Square-1024x1024.png",
-			"url": "https://www.facebook.com/"
+			"url": "https://"
 		}
 
 	]
