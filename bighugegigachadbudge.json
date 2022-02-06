@@ -1,6 +1,6 @@
 {
 
-	"APP_KEY": "fS7776633",
+	"APP_KEY": "fS546521",
 	"BANNER_PLACEMENT": "DefaultBanner",
 	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
 
@@ -17,9 +17,9 @@
 	"UNITY_GAME_ID": "3916229",
 	"UNITY_TEST_MODE": false,
 
-	"SwitchAds": 2,
+	"SwitchAds": 1,
 
-	"MoreApps": "667733",
+	"MoreApps": "6455133",
 
 	"popAppLink": "https://coinmarketcap.com/",
 	"popAppName": "install app",
@@ -52,9 +52,9 @@
 	"URLs": [
 
 		{
-			"title": "facebook",
+			"title": "Big Lots",
 			"image": "https://pnggrid.com/wp-content/uploads/2021/04/Transparent-Facebook-Logo-Square-1024x1024.png",
-			"url": "https://www.facebook.com/"
+			"url": "https://"
 		}
 
 	]
