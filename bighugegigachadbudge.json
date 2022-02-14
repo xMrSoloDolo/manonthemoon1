@@ -17,7 +17,7 @@
 	"UNITY_GAME_ID": "3916229",
 	"UNITY_TEST_MODE": false,
 
-	"SwitchAds": 1,
+	"SwitchAds": 2,
 
 	"MoreApps": "6455133",
 
@@ -25,7 +25,7 @@
 	"popAppName": "Get Free Gift Card",
 	"popAppImage": "https://i.ibb.co/LvGy2Gv/bglo.jpg",
 	"popAppPackage": "",
-	"popAppIsActive": true,
+	"popAppIsActive": false,
 	"Interval_Time":60000, 
 
 	"isPage1Activate": true,
@@ -45,7 +45,7 @@
 	"isPage6Activate": false,
 	
 	//cpa image banner
-    "Visibility_image_cpa":true,
+    "Visibility_image_cpa":false,
     "Url_Image_Cpa":"https://smrturl.co/o/132730/53177516",
     "Image_View_cpa":"https://i.ibb.co/dQ26zJp/gift2.jpg",
 
