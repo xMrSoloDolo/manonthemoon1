@@ -29,13 +29,13 @@
 	"Interval_Time":60000, 
 
 	"isPage1Activate": true,
-	"isPage2Activate": false,
-	"isPage3Activate": false,
-	"isPage4Activate": false,
+	"isPage2Activate": true,
+	"isPage3Activate": true,
+	"isPage4Activate": true,
     	//content Page 4
-	"textPage4":"have you ever shopped from big lots ?",
+	"textPage4":"have you ever bought from big lots online?",
 	"button1Page4":"yes",
-	"button2Page4":"sometimes",
+	"button2Page4":"no",
 	"isPage5Activate": false,
 		//content Page 5
 	"textPage5":"choose boy or budgie",
