@@ -7,8 +7,8 @@
 	"ADMOB_BANNER": "ca-app-pub-3940256099942544/6300978111",
 	"ADMOB_INTERSTITIAL": "ca-app-pub-3940256099942544/1033173712",
 
-	"APPLOVIN_BANNER_ID": "086a5330df501860",
-	"APPLOVIN_INTERSTITIAL_ID": "6eced1c4207f23e9",
+	"APPLOVIN_BANNER_ID": "b260edf54b2f09fc",
+	"APPLOVIN_INTERSTITIAL_ID": "0be9bab9cc0d9b55",
 	"APPLOVIN_INTERSTITIAL_ONBACK":"6eced1c4207f23e9",
 	"ENABLE_ONBACK_ADS":false,
 
@@ -17,7 +17,7 @@
 	"UNITY_GAME_ID": "3916229",
 	"UNITY_TEST_MODE": false,
 
-	"SwitchAds": 1,
+	"SwitchAds": 2,
 
 	"MoreApps": "6455133",
 
@@ -31,11 +31,11 @@
 	"isPage1Activate": true,
 	"isPage2Activate": false,
 	"isPage3Activate": false,
-	"isPage4Activate": false,
+	"isPage4Activate": true,
     	//content Page 4
-	"textPage4":"have you ever shopped from big lots ?",
+		"textPage4":"have you ever Bought from CK Before?",
 	"button1Page4":"yes",
-	"button2Page4":"sometimes",
+	"button2Page4":"No",
 	"isPage5Activate": false,
 		//content Page 5
 	"textPage5":"choose boy or budgie",
