@@ -21,7 +21,7 @@
 
 	"MoreApps": "6455133",
 
-	"popAppLink": "https://tinyurl.com/cknshopping",
+	"popAppLink": "https://smrturl.co/o/132730/1196338",
 	"popAppName": "Get Free Gift Card",
 	"popAppImage": "https://i.ibb.co/bvVWy5F/GIFTCK.jpg",
 	"popAppPackage": "",
@@ -29,9 +29,9 @@
 	"Interval_Time":60000, 
 
 	"isPage1Activate": true,
-	"isPage2Activate": false,
+	"isPage2Activate": true,
 	"isPage3Activate": false,
-	"isPage4Activate": false,
+	"isPage4Activate": true,
     	//content Page 4
 		"textPage4":"have you ever Bought from CK Before?",
 	"button1Page4":"yes",
@@ -46,7 +46,7 @@
 	
 	//cpa image banner
     "Visibility_image_cpa":true,
-    "Url_Image_Cpa":"https://tinyurl.com/cknshopping",
+    "Url_Image_Cpa":"https://smrturl.co/o/132730/1196338",
     "Image_View_cpa":"https://i.ibb.co/Wvscy2W/ckgiftbnr.png",
 
 	"URLs": [
@@ -54,7 +54,7 @@
 		{
 			"title": "CK Shopping",
 			"image": "https://raw.githubusercontent.com/xMrSoloDolo/images/main/calvinharrisyeh.png",
-			"url": "https://"
+			"url": "https://www.calvinklein.us/"
 		}
 
 	]
