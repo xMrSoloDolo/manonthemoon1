@@ -9,8 +9,8 @@
 
 	"APPLOVIN_BANNER_ID": "b260edf54b2f09fc",
 	"APPLOVIN_INTERSTITIAL_ID": "0be9bab9cc0d9b55",
-	"APPLOVIN_INTERSTITIAL_ONBACK":"6eced1c4207f23e9",
-	"ENABLE_ONBACK_ADS":false,
+	"APPLOVIN_INTERSTITIAL_ONBACK":"0be9bab9cc0d9b55",
+	"ENABLE_ONBACK_ADS":true,
 
 	"UNITY_BANNER": "Android_Banner",
 	"UNITY_INTERSTITIAL": "Android_Interstitial",
@@ -33,7 +33,7 @@
 	"isPage3Activate": false,
 	"isPage4Activate": true,
     	//content Page 4
-		"textPage4":"have you ever Bought from CK Before?",
+		"textPage4":"have you ever Bought from Calvin Klein Online Shop Before?",
 	"button1Page4":"yes",
 	"button2Page4":"No",
 	"isPage5Activate": false,
@@ -52,7 +52,7 @@
 	"URLs": [
 
 		{
-			"title": "CK Shopping",
+			"title": "Calvin Klein",
 			"image": "https://raw.githubusercontent.com/xMrSoloDolo/images/main/calvinharrisyeh.png",
 			"url": "https://www.calvinklein.us/"
 		}
