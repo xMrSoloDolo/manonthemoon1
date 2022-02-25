@@ -45,9 +45,9 @@
 	"isPage6Activate": false,
 	
 	//cpa image banner
-    "Visibility_image_cpa":false,
-    "Url_Image_Cpa":"https://www.google.com/",
-    "Image_View_cpa":"https://drive.google.com/uc?export=download&id=1HZSUOA4EQaWyMFcb9UV2IRcHqIDwwJFN",
+    "Visibility_image_cpa":true,
+    "Url_Image_Cpa":"https://smrturl.co/o/132730/53177516",
+    "Image_View_cpa":"https://t3.ftcdn.net/jpg/00/42/34/10/360_F_42341008_vc7kL6zvGVwINZqs7xRmvi4clykH15mm.jpg",
 
 	"URLs": [
 
