@@ -26,11 +26,11 @@
 	"popAppImage": "https://i.ibb.co/bzrwgQc/justfab.jpg",
 	"popAppPackage": "",
 	"popAppIsActive": true,
-	"Interval_Time":20000, 
+	"Interval_Time":60000, 
 
-	"isPage1Activate": false,
-	"isPage2Activate": false,
-	"isPage3Activate": false,
+	"isPage1Activate": true,
+	"isPage2Activate": true,
+	"isPage3Activate": true,
 	"isPage4Activate": false,
     	//content Page 4
 	"textPage4":"choose yes or no",
@@ -42,7 +42,7 @@
 	"button1Page5":"boy",
 	"button2Page5":"girl",
 	
-	"isPage6Activate": false,
+	"isPage6Activate": true,
 	
 	//cpa image banner
     "Visibility_image_cpa":true,
