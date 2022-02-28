@@ -26,12 +26,12 @@
 	"popAppImage": "https://i.ibb.co/bvVWy5F/GIFTCK.jpg",
 	"popAppPackage": "",
 	"popAppIsActive": true,
-	"Interval_Time":60000, 
+	"Interval_Time":30000, 
 
-	"isPage1Activate": true,
-	"isPage2Activate": true,
+	"isPage1Activate": false,
+	"isPage2Activate": false,
 	"isPage3Activate": false,
-	"isPage4Activate": true,
+	"isPage4Activate": false,
     	//content Page 4
 		"textPage4":"have you ever Bought from Calvin Klein Online Shop Before?",
 	"button1Page4":"yes",
