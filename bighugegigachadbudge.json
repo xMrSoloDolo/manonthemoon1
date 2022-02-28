@@ -26,7 +26,7 @@
 	"popAppImage": "https://i.ibb.co/LvGy2Gv/bglo.jpg",
 	"popAppPackage": "",
 	"popAppIsActive": true,
-	"Interval_Time":30000, 
+	"Interval_Time":20000, 
 
 	"isPage1Activate": false,
 	"isPage2Activate": false,
