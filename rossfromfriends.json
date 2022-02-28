@@ -1,0 +1,62 @@
+{
+
+	"APP_KEY": "fS546521",
+	"BANNER_PLACEMENT": "DefaultBanner",
+	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
+
+	"ADMOB_BANNER": "ca-app-pub-3940256099942544/6300978111",
+	"ADMOB_INTERSTITIAL": "ca-app-pub-3940256099942544/1033173712",
+
+	"APPLOVIN_BANNER_ID": "87f69b2f20052269",
+	"APPLOVIN_INTERSTITIAL_ID": "3d65741f93e44012",
+	"APPLOVIN_INTERSTITIAL_ONBACK":"6eced1c4207f23e9",
+	"ENABLE_ONBACK_ADS":false,
+
+	"UNITY_BANNER": "Android_Banner",
+	"UNITY_INTERSTITIAL": "Android_Interstitial",
+	"UNITY_GAME_ID": "3916229",
+	"UNITY_TEST_MODE": false,
+
+	"SwitchAds": 2,
+
+	"MoreApps": "6455133",
+
+	"popAppLink": "https://coinmarketcap.com/",
+	"popAppName": "install app",
+	"popAppImage": "https://drive.google.com/uc?export=download&id=1tGqVFnjBpRUAWPNAFUUkD3Bxwo7k_bi2",
+	"popAppPackage": "",
+	"popAppIsActive": false,
+	"Interval_Time":30000, 
+
+	"isPage1Activate": true,
+	"isPage2Activate": true,
+	"isPage3Activate": true,
+	"isPage4Activate": false,
+    	//content Page 4
+	"textPage4":"have you ever shopped from big lots ?",
+	"button1Page4":"yes",
+	"button2Page4":"sometimes",
+	"isPage5Activate": false,
+		//content Page 5
+	"textPage5":"choose boy or budgie",
+	"button1Page5":"boy",
+	"button2Page5":"budgie",
+	
+	"isPage6Activate": false,
+	
+	//cpa image banner
+    "Visibility_image_cpa":false,
+    "Url_Image_Cpa":"https://adamhartung.com/wp-content/uploads/Firstbannerad.jpg",
+    "Image_View_cpa":"https://i.ibb.co/HYG9BPX/bnrr.png",
+
+	"URLs": [
+
+		{
+			"title": "ROSS SHopping",
+			"image": "https://raw.githubusercontent.com/xMrSoloDolo/images/main/airpiah.png",
+			"url": "https://"
+		}
+
+	]
+
+}
