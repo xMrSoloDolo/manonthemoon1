@@ -28,10 +28,10 @@
 	"popAppIsActive": true,
 	"Interval_Time":30000, 
 
-	"isPage1Activate": true,
+	"isPage1Activate": false,
 	"isPage2Activate": false,
 	"isPage3Activate": false,
-	"isPage4Activate": true,
+	"isPage4Activate": false,
     	//content Page 4
 	"textPage4":"have you ever bought from big lots online?",
 	"button1Page4":"yes",
