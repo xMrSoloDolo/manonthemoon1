@@ -9,8 +9,8 @@
 
 	"APPLOVIN_BANNER_ID": "b260edf54b2f09fc",
 	"APPLOVIN_INTERSTITIAL_ID": "0be9bab9cc0d9b55",
-	"APPLOVIN_INTERSTITIAL_ONBACK":"0be9bab9cc0d9b55",
-	"ENABLE_ONBACK_ADS":false,
+	"APPLOVIN_INTERSTITIAL_ONBACK":"c40db1bdcef78b33",
+	"ENABLE_ONBACK_ADS":true,
 
 	"UNITY_BANNER": "Android_Banner",
 	"UNITY_INTERSTITIAL": "Android_Interstitial",
@@ -25,13 +25,13 @@
 	"popAppName": "Get Free Gift Card",
 	"popAppImage": "https://i.ibb.co/bvVWy5F/GIFTCK.jpg",
 	"popAppPackage": "",
-	"popAppIsActive": false,
+	"popAppIsActive": true,
 	"Interval_Time":60000, 
 
 	"isPage1Activate": true,
-	"isPage2Activate": false,
-	"isPage3Activate": false,
-	"isPage4Activate": false,
+	"isPage2Activate": true,
+	"isPage3Activate": true,
+	"isPage4Activate": true,
     	//content Page 4
 		"textPage4":"have you ever Bought from Calvin Klein Online Shop Before?",
 	"button1Page4":"yes",
@@ -45,7 +45,7 @@
 	"isPage6Activate": false,
 	
 	//cpa image banner
-    "Visibility_image_cpa":false,
+    "Visibility_image_cpa":true,
     "Url_Image_Cpa":"https://smrturl.co/o/132730/53177516",
     "Image_View_cpa":"https://sportsworldrunningclub.com/wp-content/uploads/2019/04/Click-here-to-Enter-Button-IMG.jpg",
 
