@@ -1,6 +1,6 @@
 {
 
-	"APP_KEY": "fS546521",
+	"APP_KEY": "fS5546521",
 	"BANNER_PLACEMENT": "DefaultBanner",
 	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
 
@@ -17,7 +17,7 @@
 	"UNITY_GAME_ID": "3916229",
 	"UNITY_TEST_MODE": false,
 
-	"SwitchAds": 2,
+	"SwitchAds": 1,
 
 	"MoreApps": "6455133",
 
