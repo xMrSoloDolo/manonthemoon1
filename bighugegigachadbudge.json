@@ -29,8 +29,8 @@
 	"Interval_Time":60000, 
 
 	"isPage1Activate": true,
-	"isPage2Activate": false,
-	"isPage3Activate": false,
+	"isPage2Activate": true,
+	"isPage3Activate": true,
 	"isPage4Activate": false,
     	//content Page 4
 	"textPage4":"have you ever bought from big lots online Before?",
@@ -45,7 +45,7 @@
 	"isPage6Activate": false,
 	
 	//cpa image banner
-    "Visibility_image_cpa":true,
+    "Visibility_image_cpa":false,
     "Url_Image_Cpa":"https://smrturl.co/o/132730/53177516",
     "Image_View_cpa":"https://sportsworldrunningclub.com/wp-content/uploads/2019/04/Click-here-to-Enter-Button-IMG.jpg",
 
@@ -54,7 +54,7 @@
 		{
 			"title": "Big Lots",
 			"image": "https://raw.githubusercontent.com/xMrSoloDolo/images/main/bgbudgie.png",
-			"url": "https://www.biglots.com/"
+			"url": "https://"
 		}
 
 	]
