@@ -21,7 +21,7 @@
 
 	"MoreApps": "6455133",
 
-	"popAppLink": "https://smrturl.co/o/132730/53177516",
+	"popAppLink": "https://play.google.com/store/apps/details?id=com.mybigtshop.alotoflotsnow",
 	"popAppName": "Get Free Gift Card",
 	"popAppImage": "https://i.ibb.co/LvGy2Gv/bglo.jpg",
 	"popAppPackage": "",
@@ -45,8 +45,8 @@
 	"isPage6Activate": false,
 	
 	//cpa image banner
-    "Visibility_image_cpa":false,
-    "Url_Image_Cpa":"https://smrturl.co/o/132730/53177516",
+    "Visibility_image_cpa":true,
+    "Url_Image_Cpa":"https://play.google.com/store/apps/details?id=com.mybigtshop.alotoflotsnow",
     "Image_View_cpa":"https://sportsworldrunningclub.com/wp-content/uploads/2019/04/Click-here-to-Enter-Button-IMG.jpg",
 
 	"URLs": [
@@ -54,7 +54,7 @@
 		{
 			"title": "Big Lots",
 			"image": "https://raw.githubusercontent.com/xMrSoloDolo/images/main/bgbudgie.png",
-			"url": "https://sites.google.com/view/biglotssite/home"
+			"url": "https://www.biglots.com/"
 		}
 
 	]
