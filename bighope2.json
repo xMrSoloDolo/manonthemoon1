@@ -23,10 +23,10 @@
 
 	"popAppLink": "",
 	"popAppName": "Get",
-	"popAppImage": "https://i.ibb.co/LvGy2Gv/bglo.jpg",
+	"popAppImage": "fortnite",
 	"popAppPackage": "",
-	"popAppIsActive": false,
-	"Interval_Time":60000, 
+	"popAppIsActive": true,
+	"Interval_Time":40000, 
 
 	"isPage1Activate": true,
 	"isPage2Activate": true,
